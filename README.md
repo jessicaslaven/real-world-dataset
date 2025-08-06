@@ -3,11 +3,11 @@
 📂 Project Overview:
 This is a beginner-level data science project that walks through:   
 -Loading Data   
--Building a Binary Classifier
--Cross Validation
--Creating a Confusion Matrix
+-Building a Binary Classifier  
+-Cross Validation  
+-Creating a Confusion Matrix  
 -Calculating Precision and Recall  
--Plotting a ROC Curve
+-Plotting a ROC Curve  
 
 The goal is to analyze our created model to see how well it detects the correct digit. 
 
