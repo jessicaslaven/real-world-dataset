@@ -12,7 +12,7 @@ This is a beginner-level data science project that walks through:
 The goal is to analyze our created model to see how well it detects the correct digit. 
 
 📝 Skills used:  
--Data Visualization with MatPlotLib
+-Data Visualization with MatPlotLib  
 -Cross Validation / RandomForestClassifier / Confusion Matrix with Scikit-Learn  
 
 📋 Data comes from the MNIST dataset which is freely available on the web.
